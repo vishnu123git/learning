@@ -1,0 +1,59 @@
+ul li a{
+    margin-right: 40px;
+    margin-left: 10px;
+    font-family: "Monda", sans-serif;
+    text-decoration: none;
+    color: black;
+    font-weight: 400;
+    
+    
+}
+
+.logo{
+    font-family: "Kumar One", serif;
+    font-weight: 500;
+}
+
+ul li a:hover{
+    color: green;
+}
+
+.image{
+    width: 500px;
+    height: 300px;
+    
+}
+
+.ee{
+    width: 500px;
+    height: 700px;
+}
+
+.mm{
+    width: 300px;
+    height: 200px;
+    float: end;
+}
+
+#lists{
+    list-style: none;
+    
+}
+
+.instagram{
+    width: 30px;
+    height: 30px;
+}
+
+.last{
+    color: white;
+}
+
+#lists a{
+    color: white;
+    row-gap: 1rem;
+}
+
+#lists a:hover{
+    color: green;
+}
